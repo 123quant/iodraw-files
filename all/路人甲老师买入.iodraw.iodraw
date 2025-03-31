@@ -7,12 +7,12 @@
         <mxCell id="fJpOpd-riwZz099yy2pN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJpOpd-riwZz099yy2pN-1" target="fJpOpd-riwZz099yy2pN-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJpOpd-riwZz099yy2pN-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fJpOpd-riwZz099yy2pN-3">
-          <mxGeometry x="-0.1422" relative="1" as="geometry">
+        <mxCell id="fJpOpd-riwZz099yy2pN-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fJpOpd-riwZz099yy2pN-3">
+          <mxGeometry x="0.0578" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJpOpd-riwZz099yy2pN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fJpOpd-riwZz099yy2pN-1" value="同花顺板块排名前三股票池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJpOpd-riwZz099yy2pN-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
