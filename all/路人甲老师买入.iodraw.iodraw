@@ -10,8 +10,8 @@
         <mxCell id="fJpOpd-riwZz099yy2pN-1" value="同花顺板块排名前三股票池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fJpOpd-riwZz099yy2pN-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="fJpOpd-riwZz099yy2pN-2" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;涨幅大于监控阈值&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
